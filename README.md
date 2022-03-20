@@ -10,7 +10,7 @@
  <br />
 
 <div align="center">
-<img src="public/assets/readme.png">
+<img src="/assets/readme.png">
 </div>
 
 <h1 align="center">Portfolio Page</h1>
