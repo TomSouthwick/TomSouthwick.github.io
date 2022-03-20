@@ -30,7 +30,7 @@
   </p>
 </div>
 <div align="center">
-<img src="public/assets/pic1.png" width="90%" height="100%">
+<img src="./assets/pic1.png" width="90%" height="100%">
 </div>
  <br />
  <br />
