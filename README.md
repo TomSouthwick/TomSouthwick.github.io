@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Tom Southwick - [Linkedin](https://linkedin.com/in/tomsouthwick)
 
-Project Link: [https://github.com/TomSouthwick/Updated-Portfolio-Page](https://github.com/TomSouthwick/Updated-Portfolio-Page)
+Project Link: [Here](https://tomsouthwick.github.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
