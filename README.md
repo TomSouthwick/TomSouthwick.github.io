@@ -10,7 +10,7 @@
  <br />
 
 <div align="center">
-<img src="./assets/readme.png">
+<img src="/assets/readme.png">
 </div>
 
 <h1 align="center">Portfolio Page</h1>
@@ -18,15 +18,15 @@
   <p align="center">
     My Portfolio page is my final piece of work for USYD-Triology education. I've created a Portfolio page using react and javascript to demonstrate my learnings throughout the course.
     <br />
-    <a href="https://github.com/TomSouthwick/Updated-Portfolio-Page"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TomSouthwick/TomSouthwick.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
     <a href="https://tomsouthwick.github.io/"><strong>View App</strong></a>
     ·
-    <a href="https://github.com/TomSouthwick/Updated-Portfolio-Page">Report Bug</a>
+    <a href="https://github.com/TomSouthwick/TomSouthwick.github.io">Report Bug</a>
     ·
-    <a href="https://github.com/TomSouthwick/Updated-Portfolio-Page">Request Feature</a>
+    <a href="https://github.com/TomSouthwick/TomSouthwick.github.io">Request Feature</a>
   </p>
 </div>
 <div align="center">
@@ -89,7 +89,7 @@ My portfolio page is designed to showcase my collection of work throughout my ti
   - ✅ Deciding which projects to showcase
 - ✅ Making the app mobile responsive!
 
-See the [open issues](https://github.com/TomSouthwick/Updated-Portfolio-Page/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TomSouthwick/TomSouthwick.github.io/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -124,10 +124,10 @@ Project Link: [Here](https://tomsouthwick.github.io/)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[issues-shield]: https://img.shields.io/github/issues/TomSouthwick/Updated-Portfolio-Page.svg?style=for-the-badge
-[issues-url]: https://github.com/TomSouthwick/Updated-Portfolio-Page/issues
+[issues-shield]: https://img.shields.io/github/issues/TomSouthwick/TomSouthwick.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/TomSouthwick/TomSouthwick.github.io/issues
 [license-shield]: https://img.shields.io/github/license/TomSouthwick/Team-Profile-Generator.svg?style=for-the-badge
-[license-url]: https://github.com/TomSouthwick/Updated-Portfolio-Page/blob/master/LICENSE.txt
+[license-url]: https://github.com/TomSouthwick/TomSouthwick.github.io/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tomsouthwick
 [product-screenshot]: images/screenshot.png
