@@ -22,7 +22,7 @@
     <br />
     <br />
     ·
-    <a href="https://glacial-forest-03903.herokuapp.com"><strong>View App</strong></a>
+    <a href="https://tomsouthwick.github.io/"><strong>View App</strong></a>
     ·
     <a href="https://github.com/TomSouthwick/TomSouthwick">Report Bug</a>
     ·
