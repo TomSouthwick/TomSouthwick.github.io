@@ -10,7 +10,7 @@
  <br />
 
 <div align="center">
-<img src="/assets/readme.png">
+<img src="public/assets/readme.png">
 </div>
 
 <h1 align="center">Portfolio Page</h1>
@@ -22,7 +22,7 @@
     <br />
     <br />
     ·
-    <a href="https://tomsouthwick.github.io/"><strong>View App</strong></a>
+    <a href="https://glacial-forest-03903.herokuapp.com"><strong>View App</strong></a>
     ·
     <a href="https://github.com/TomSouthwick/TomSouthwick">Report Bug</a>
     ·
@@ -30,7 +30,7 @@
   </p>
 </div>
 <div align="center">
-<img src="/assets/pic1.png" width="90%" height="100%">
+<img src="public/assets/pic1.png" width="90%" height="100%">
 </div>
  <br />
  <br />
